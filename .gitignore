@@ -6,3 +6,8 @@
 # CVs y cartas generados localmente; se conserva el README de convenciones.
 /output/*
 !/output/README.md
+
+# Archivos locales del CV original y metadatos del sistema operativo.
+/cv.pdf
+/CV.pdf
+.DS_Store
