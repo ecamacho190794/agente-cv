@@ -1,0 +1,8 @@
+# Datos personales y artefactos generados por los workflows locales.
+# Se conserva el README con las convenciones del directorio.
+/knowledge/*
+!/knowledge/README.md
+
+# CVs y cartas generados localmente; se conserva el README de convenciones.
+/output/*
+!/output/README.md
